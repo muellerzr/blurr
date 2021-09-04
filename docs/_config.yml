@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /blurr
 collections:
   tooltips: {output: false}
 company_name: ohmeow
